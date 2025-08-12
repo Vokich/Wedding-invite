@@ -29,7 +29,7 @@ export default function Footer(){
     };
   
     return(
-        <>
+        <footer>
         <div className='form-section'>
             <div className='form-background'> 
               <h1>АНКЕТА</h1>
@@ -90,6 +90,6 @@ export default function Footer(){
             <h3>КОНТАКТЫ НЕВЕСТЫ: +7-000-000-00-00</h3>
             <h3>КОНТАКТЫ ЖЕНИХА: +7-000-000-00-00</h3>
           </div>
-        </>
+        </footer>
     )
 }
