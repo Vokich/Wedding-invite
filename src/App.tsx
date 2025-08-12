@@ -17,9 +17,7 @@ function App() {
         <TimerPlace/>
         <DressCodeDetails/>
         </main>
-        <footer>
         <Footer/>  
-        </footer>
       </div> 
     </>
   )
