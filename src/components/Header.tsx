@@ -3,8 +3,6 @@ export default function Header(){
         <header>
           <div className='man-woman-div'>
             <h1>Никита<br/> и<br/> Ульяна</h1>
-            <picture>
-            </picture>
           </div>
 
           <div className='dear-friends-others-div'>
