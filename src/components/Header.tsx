@@ -1,6 +1,6 @@
 export default function Header(){
     return(
-            <header>
+        <header>
           <div className='man-woman-div'>
             <h1>Никита<br/> и<br/> Ульяна</h1>
             <picture>
